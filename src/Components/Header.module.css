@@ -1,0 +1,39 @@
+
+  .nav { 
+    width: 200px;
+    color:  #FFD43B;
+    font-weight: bold; 
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 20px;
+    vertical-align: -5px;
+    margin-bottom: 0px;
+    padding: 10px;
+    text-align: center;
+  }
+
+ 
+  .nav:hover {
+    color: #FFD43B; /* Hover rengi */
+  }
+  .navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    position: fixed;
+    background-color: rgba(34, 34, 34, 0.7);
+    z-index: 100;
+    
+    
+  }
+  .icon {
+    color:  #FFD43B;
+    font-size: 30px;
+    display: flex;
+    align-items: center; 
+    justify-content: space-between;
+    margin-left: 50px;
+  }  
+  .face {
+    margin-right: 50px;
+  }

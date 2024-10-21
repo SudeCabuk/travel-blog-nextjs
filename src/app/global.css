@@ -1,0 +1,6 @@
+.active-scroll-spy {
+    border-bottom: 3px solid #FFD43B;
+  }
+html {
+    scroll-padding-top: 0px; /* height of your navbar */
+}

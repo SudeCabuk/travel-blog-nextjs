@@ -27,18 +27,20 @@ export default function Home() {
         </div>
         <div id="home"></div>
 
-        <div id="about-me">
+        <div>
           <TemplateDemo />
         </div>
-
-        <div id="category">
+        <div id="about-me"></div>
+        <div>
           <BasicDemo />
         </div>
-        <div id="blog">
+        <div id="category"></div>
+        <div>
           <PrimeReactProvider>
             <Travel />
           </PrimeReactProvider>
         </div>
+        <div id="blog"></div>
 
         <MapPage />
         <div id="contact-me">

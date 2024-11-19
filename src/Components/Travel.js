@@ -9,6 +9,7 @@ export default function Travel() {
   const cardData = [
     {
       title: "Maldivler",
+      id: "maldivler",
       subTitle: "Subtitle 1",
       imgSrc:
         "https://www.wts.web.tr/wp-content/uploads/2024/08/maldivler-balayi-turu-31-wts.jpg",
@@ -78,13 +79,6 @@ export default function Travel() {
           summary: "Delete",
           detail: "Deleted",
         });
-      },
-    },
-    {
-      label: "React Website",
-      icon: "pi pi-external-link",
-      command: () => {
-        window.location.href = "https://reactjs.org/";
       },
     },
     {

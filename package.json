@@ -20,6 +20,7 @@
     "@mui/styled-engine-sc": "^6.1.2",
     "@mui/styles": "^6.1.2",
     "@mui/x-date-pickers": "^7.19.0",
+    "axios": "^1.7.9",
     "clsx": "^2.1.1",
     "dayjs": "^1.11.13",
     "dom": "^0.0.3",
